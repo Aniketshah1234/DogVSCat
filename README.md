@@ -1,5 +1,5 @@
 # Dog and Cat Classifier
-![Dog_and_Cat_Classifier](Dog_and_Cat_Classifier.jpg)
+![Dog_and_Cat_Classifier](Dog VS Cat Classifier by Aniket.png)
 ◦ Built an image classification model to distinguish between dog and cat images using Convolutional Neural Networks (CNNs).
 <br>
 ◦ Leveraged transfer learning with the pre-trained VGG16 model for feature extraction and fine-tuning by training it’s block 5.
